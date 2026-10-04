@@ -21,5 +21,17 @@
     <ClCompile Include="zadatak_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="zadatak_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zadatak_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zadatak_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zadatak_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
