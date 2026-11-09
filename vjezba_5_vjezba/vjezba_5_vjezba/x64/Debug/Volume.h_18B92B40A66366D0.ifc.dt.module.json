@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Volume.obj",
+            "outputs": [
+                "x64\\Debug\\Volume.h_18B92B40A66366D0.ifc.dt.module.json",
+                "x64\\Debug\\Volume.h_18B92B40A66366D0.ifc.dt.d.json",
+                "x64\\Debug\\Volume.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\anape\\Documents\\objektno vjezba doma\\vjezba_5_vjezba\\vjezba_5_vjezba\\Volume.h",
+                    "source-path": "c:\\users\\anape\\documents\\objektno vjezba doma\\vjezba_5_vjezba\\vjezba_5_vjezba\\volume.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

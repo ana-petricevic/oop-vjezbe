@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Volume.h.obj",
+            "outputs": [
+                "C:\\Users\\anape\\Documents\\objektno vjezba doma\\vjezba_5_vjezba\\vjezba_5_vjezba\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\anape\\Documents\\objektno vjezba doma\\vjezba_5_vjezba\\vjezba_5_vjezba\\x64\\Debug\\Volume.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Volume.h",
+                    "source-path": "c:\\users\\anape\\documents\\objektno vjezba doma\\vjezba_5_vjezba\\vjezba_5_vjezba\\volume.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

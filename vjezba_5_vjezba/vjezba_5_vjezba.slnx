@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="vjezba_5_vjezba/vjezba_5_vjezba.vcxproj" Id="80fd2da4-670c-4d38-bd45-f1bf4f40569d" />
+</Solution>
